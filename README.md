@@ -12,22 +12,27 @@ This repository is purely for issues only.  If you have a purchased a Grav Premi
 <table>
   <tr>
     <td>
-      <a href="https://getgrav.org/premium/nextgen-editor">NextGen Editor</a>
-    </td>
-    <td>
       <a href="https://getgrav.org/premium/seo-magic">SEO Magic</a>
     </td>
     <td>
       <a href="https://getgrav.org/premium/typhoon">Typhoon</a>
     </td>
+    <td>
+      <a href="https://getgrav.org/premium/nextgen-editor">NextGen Editor</a>
+    </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://getgrav.org/premium/cloudflare">Cloudflare Manager</a>
+    </td>
     <td>
       <a href="https://getgrav.org/premium/instagram-feed">Instagram Feed</a>
     </td>
     <td>
       <a href="https://getgrav.org/premium/lightbox-gallery">Lightbox Gallery</a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://getgrav.org/premium/site-toolbox">Site Toolbox</a>
     </td>
