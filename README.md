@@ -36,5 +36,8 @@ This repository is purely for issues only.  If you have a purchased a Grav Premi
     <td>
       <a href="https://getgrav.org/premium/site-toolbox">Site Toolbox</a>
     </td>
+    <td>
+      <a href="https://getgrav.org/premium/algolia-pro">Algolia Pro</a>
+    </td>
   </tr>
 </table>
