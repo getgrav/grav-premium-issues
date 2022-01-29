@@ -39,5 +39,8 @@ This repository is purely for issues only.  If you have a purchased a Grav Premi
     <td>
       <a href="https://getgrav.org/premium/algolia-pro">Algolia Pro</a>
     </td>
+    <td>
+      <a href="https://getgrav.org/premium/downloads-pro">Downloads Pro</a>
+    </td>
   </tr>
 </table>
