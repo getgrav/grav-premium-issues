@@ -49,6 +49,5 @@ This repository is purely for issues only.  If you have a purchased a Grav Premi
     </td>
     <td></td>
     <td></td>
-
   </tr>
 </table>
