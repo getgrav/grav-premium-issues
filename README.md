@@ -43,4 +43,11 @@ This repository is purely for issues only.  If you have a purchased a Grav Premi
       <a href="https://getgrav.org/premium/downloads-pro">Downloads Pro</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://getgrav.org/premium/comments-pro">Comments Pro</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
