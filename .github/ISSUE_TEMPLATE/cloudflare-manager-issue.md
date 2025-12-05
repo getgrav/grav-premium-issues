@@ -3,7 +3,7 @@ name: Cloudflare Manager Issue
 about: Issue with Cloudflare Manager.
 title: "[cloudflare] Summary of the issue"
 labels: cloudflare
-assignees: w00fz
+assignees: rhukster
 
 ---
 
