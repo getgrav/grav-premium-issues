@@ -1,6 +1,6 @@
 ---
 name: AI Pro Plugin Issue
-about: Issue with AI Translate.
+about: Issue with AI Pro.
 title: "[ai-pro] Summary of the issue"
 labels: ai-pro
 assignees: rhukster
